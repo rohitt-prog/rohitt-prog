@@ -4,46 +4,25 @@
 
 <div align="center">
 
-![status](https://img.shields.io/badge/status-open%20for%20internships-4ADE80?style=flat-square&labelColor=161B22&color=1E3A2F)
 ![degree](https://img.shields.io/badge/degree-B.Tech%20CSE%20%E2%80%94%20AI%20%26%20ML%20%E2%80%9928-5EEAD4?style=flat-square&labelColor=161B22&color=0F2D2D)
+&nbsp;
 ![focus](https://img.shields.io/badge/focus-AI%2FML%20%26%20Software-CBD5E1?style=flat-square&labelColor=161B22&color=1E2433)
-
-[![GitHub](https://img.shields.io/badge/GitHub-rohitt--prog-141E28?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitt-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Kumar-141E28?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rohit-kumar-8b1892361/)
-[![Email](https://img.shields.io/badge/Email-rohit9.mwsp%40gmail.com-141E28?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:rohit9.mwsp@gmail.com)
 
 </div>
 
 ---
 
-### `$ whoami`
+## About Me
 
-> *"An AI/ML-focused software developer building practical intelligent applications and reliable software systems."*
+I am a Computer Science and Engineering undergraduate specializing in **Artificial Intelligence and Machine Learning** (Class of 2028). I focus on building practical, end-to-end software applications that integrate deep learning models, AI APIs, and resilient backend services into usable products.
 
-B.Tech student in Computer Science and Engineering, specializing in **Artificial Intelligence and Machine Learning** (Class of 2028). I build end-to-end AI-powered applications — integrating deep learning models, LLM APIs, and backend services into working software products. Currently strengthening **Data Structures & Algorithms in Java** and backend development with **Python & FastAPI**.
-
----
-
-### `$ cat about_me.txt`
-
-```text
-┌───────────────────┬─────────────────────────────────────────────────────────┐
-│ Name              │ Rohit                                                   │
-│ Field of Study    │ B.Tech in CSE — AI & ML Specialization (2024–2028)      │
-│ Focus             │ AI/ML Engineering & Software Development                │
-│ Seeking           │ Internships in AI/ML & Software Engineering             │
-│ Contact           │ rohit9.mwsp@gmail.com                                   │
-└───────────────────┴─────────────────────────────────────────────────────────┘
-```
-
-- **AI/ML Engineering**: Building and evaluating deep learning models, working with computer vision pipelines and LLM APIs.
-- **Software Development**: Writing maintainable, full-stack software with practical backends and functional frontends.
-- **Algorithmic Foundations**: Strengthening DSA skills in **Java** and system-level programming in **C**.
-- **Learning by Building**: Projects over theory — every learning milestone targets a real, working implementation.
+- **Focus Areas**: AI/ML engineering, computer vision systems, and full-stack software development.
+- **Current Priorities**: Strengthening Data Structures and Algorithms in **Java** and backend architecture with **Python & FastAPI**.
+- **Opportunities**: Actively seeking **AI/ML and Software Engineering internship** opportunities.
 
 ---
 
-### `$ ./list_skills.sh`
+## Technical Skills
 
 <div align="center">
 
@@ -61,9 +40,9 @@ B.Tech student in Computer Science and Engineering, specializing in **Artificial
 
 ---
 
-### `$ ls ./featured-projects/`
+## Featured Projects
 
-#### ◈ [IrisAI](https://github.com/rohitt-prog/IrisAI)
+### [IrisAI](https://github.com/rohitt-prog/IrisAI)
 
 Deep-learning-based eye-condition screening application — 3-model weighted ensemble (DenseNet-121, EfficientNet-B4, ResNet-50), Gemini-powered explanations, multilingual voice consultation, and PDF screening reports.
 
@@ -71,7 +50,7 @@ Deep-learning-based eye-condition screening application — 3-model weighted ens
 
 🔗 [github.com/rohitt-prog/IrisAI](https://github.com/rohitt-prog/IrisAI)
 
-#### ◈ [WorkflowOS](https://github.com/rohitt-prog/WorkflowOS)
+### [WorkflowOS](https://github.com/rohitt-prog/WorkflowOS)
 
 Workflow discovery and automation engine — detects recurring cross-application task patterns from activity logs using sequence-alignment analysis, then executes them through a human-approved, fail-safe pipeline.
 
@@ -79,7 +58,7 @@ Workflow discovery and automation engine — detects recurring cross-application
 
 ---
 
-### `$ ./fetch_github_metrics.sh`
+## GitHub Statistics
 
 <div align="center">
 
@@ -90,15 +69,17 @@ Workflow discovery and automation engine — detects recurring cross-application
 
 ---
 
-### `$ ping contact_rohit`
+## Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-141E28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitt-prog)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=5EEAD4)](https://github.com/rohitt-prog)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141E28?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/rohit-kumar-8b1892361/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=5EEAD4)](https://www.linkedin.com/in/rohit-kumar-8b1892361/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-141E28?style=for-the-badge&logo=gmail&logoColor=00FF66)](mailto:rohit9.mwsp@gmail.com)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=5EEAD4)](mailto:rohit9.mwsp@gmail.com)
+
+<br/>
 
 `rohit9.mwsp@gmail.com` — open to internships and meaningful collaborations.
 
@@ -107,5 +88,5 @@ Workflow discovery and automation engine — detects recurring cross-application
 ---
 
 <div align="center">
-<sub>Built with precision and continuous curiosity • November 2026 • © Rohit</sub>
+<sub>Built with precision and continuous curiosity • © Rohit</sub>
 </div>
